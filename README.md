@@ -5,12 +5,12 @@
 1. 서비스 개발 및 운영
   - 개발 기간 : 2021.12 ~ 2025.08
   - 주요 기술 : MediationZone, DBeaver, Linux
-  - 한 줄 요약 : 
+  - 한 줄 요약 : 운영 효율화
 
 2. 서비스 개발 및 운영
   - 개발 기간 : 2025.09 ~
   - 주요 기술 : Spring Boot, Vue.js, DBeaver, Linux
-  - 한 줄 요약 : 
+  - 한 줄 요약 : 개인정보 암호화, 고도화 
 
 ## 기록 카테고리
 - [Troubleshooting] (./troubleshooting/) : 오류 및 문제 해결 기록
