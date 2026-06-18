@@ -11,7 +11,6 @@
   - 개발 기간 : 2025.09 ~
   - 주요 기술 : Spring Boot, Vue.js, DBeaver, Linux
   - 한 줄 요약 : 개인정보 암호화, 고도화
-<code>zzz</code>
 
 ## 기록 카테고리
 - [Troubleshooting] (./troubleshooting/) : 오류 및 문제 해결 기록
