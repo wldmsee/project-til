@@ -1,5 +1,5 @@
 # FRONT 고도화 진행 중 발생한 오류 및 해결
 
 
-```log
-java.lang.Bad HTML filtering regexp
+```diff
+-java.lang.Bad HTML filtering regexp
